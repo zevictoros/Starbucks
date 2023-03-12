@@ -1,15 +1,15 @@
 # Starbucks
 
-Template com apenas a apresentação visual e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação.
+Template com a apresentação visual e instruções sobre onde e qual tipo de conteúdo deve entrar a cada parcela da apresentação.
 
 
 
 ## Motivação
 
-Esse projeto teve como motivação concretizar conhecimentos adquiridos no curso de desenvolvimento web da B7web.
+Esse projeto teve como motivação concretizar conhecimentos adquiridos no curso de desenvolvimento web.
 
 
 
 ## O Que Foi Utilizado
 
-O Starbucks foi criado com técnicas simples de HTML, CSS.
+O Starbucks foi criado com técnicas de HTML, CSS.
